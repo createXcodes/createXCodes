@@ -1,4 +1,4 @@
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://rishavchanda.io)
+[![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Raj Rikhari</h1>
 <h3 align="center">I AM CURRENTLY LEARNING THE PROGRAMMING LANGUAGES</h3>
