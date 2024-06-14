@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)](https://rishavchanda.io)
+[![MasterHead](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Raj Rikhari</h1>
 <h3 align="center">I AM CURRENTLY LEARNING THE PROGRAMMING LANGUAGES</h3>
