@@ -7,5 +7,5 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6&style=flat" alt="rajrikhari" width="400"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6&style=flat" alt="rajrikhari" width="100"/> </p>
 
