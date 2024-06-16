@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6&style=flat" alt="rajrikhari" /> </p>
 
-- 🔭 I’m currently working on **JAVASCRIPT , PYTHON , SQL**
+- 🔭 I’m currently working on **JAVASCRIPT , Data Structure And Algorithms**
 
 - 🌱 I’m currently learning **JAVASCRIPT , NODE.js , PHP**
 
