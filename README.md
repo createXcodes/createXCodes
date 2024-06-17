@@ -8,4 +8,4 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6&style=flat" alt="rajrikhari" width="250"/> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=4-Years-Experience&color=0e75b6&style=flat" alt="rajrikhari" width="250"/> </p>
+<p align="center"> label=4-Years-Experience&color=0e75b6&style=flat" alt="rajrikhari" width="250"/> </p>
