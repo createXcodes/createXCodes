@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6&style=flat" alt="rajrikhari" width="250"/> </p>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=createXcodes88&show_icons=true&count_private=true&theme=dark)](https://github.com/createXcodes)
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=createXcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -19,4 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=createXcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
