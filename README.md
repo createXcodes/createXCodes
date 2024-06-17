@@ -6,7 +6,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6&style=flat" alt="rajrikhari" width="130"/> </p>
 
 
-<p>ʟɪɴᴋꜱ</p><img width="64" height="64" src="https://img.icons8.com/arcade/64/mango.png" alt="mango"/> 
+<img width="64" height="64" src="https://img.icons8.com/arcade/64/mango.png"alt="mango"/> 
+
+- https://github.com/createXcodes
+- https://www.instagram.com/create_x_codes/
+
  
 
 
