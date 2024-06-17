@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6&style=flat" alt="rajrikhari" width="130"/> </p>
 
 
-<img width="64" height="64" src="https://img.icons8.com/arcade/64/mango.png" alt="mango" value="ʟɪɴᴋꜱ" /> 
+<img width="64" height="64" src="https://img.icons8.com/arcade/64/mango.png" alt="mango" value="ʟɪɴᴋꜱ"  placeholder="ʟɪɴᴋꜱ"/> 
  
 
 
