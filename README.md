@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6&style=flat" alt="rajrikhari" width="130"/> </p>
 
 
-<img width="64" height="64" src="https://www.canva.com/design/DAGIZnq3ktI/yQQoi2wZ6OZui-Ezti7X2w/view?utm_content=DAGIZnq3ktI&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="mango"/>  <img width="50" height="50" src="https://img.icons8.com/emoji/48/link-emoji.png" alt="link-emoji"/>
+<img width="64" height="64" src="https://www.canva.com/design/DAGIZnq3ktI/3j_gif4KJZCa_HBH2JvHIg/view" alt="mango"/>  <img width="50" height="50" src="https://img.icons8.com/emoji/48/link-emoji.png" alt="link-emoji"/>
 
 - https://github.com/createXcodes
 - https://www.instagram.com/create_x_codes/
