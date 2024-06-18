@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6&style=flat" alt="rajrikhari" width="130"/> </p>
 
-## :mango: LINKS
+## :mango: Links
 - https://github.com/createXcodes
 - https://www.instagram.com/create_x_codes/
 - https://github.com/createXcodes/Loginpage-including-DB-interface
