@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Raj Rikhari</h1>
 <h3 align="center">I AM CURRENTLY LEARNING THE PROGRAMMING LANGUAGES</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6 & style=flat" alt="rajrikhari" width="130"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6&style=flat" alt="rajrikhari" width="130"/> </p>
 
 ## :mango: Links
 - https://github.com/createXcodes
@@ -14,7 +14,7 @@
 
 
 ## :mango: Github Stats 🐱‍🚀
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=createXcodes&theme=dark&hide_border=false&includeallcommits=false&count_private=false&layout=compact&align="center")
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=createXcodes&theme=dark&hideborder=false&includeallcommits=false&count_private=false&layout=compact&align="center")
 
 
 ## :mango: Languages 
