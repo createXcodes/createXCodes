@@ -16,11 +16,18 @@
 ## :mango: Github Stats 🐱‍🚀
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=createXcodes&theme=dark&hideborder=false&includeallcommits=false&count_private=false&layout=compact&align="center")
 
-
+<h1 align="center">Hi 👋, I'm Raj Rikhari</h1>
+- 🌱 I’m currently learning **Javascript , React , **
+- 💬 Ask me about **Html , Css , Linux**
 
 
 <div> <a href="https://github.com/createXcodes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
+<a href="https://instagram.com/createXcodes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/createXcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="createXcodes" height="30" width="40" /></a></p>
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -33,16 +40,18 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=createXcodes&theme=" alt="createXcodes" /></p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=createXcodes&layout=compact&theme=dark" alt=createXcodes />
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=createXcodes&theme=dark" alt="createXcodes" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/createXcodes">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=createXcodes&theme=ayu_mirage" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=createXcodes&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=createXcodes&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=createXcodes&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=createXcodes&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=createXcodes&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=createXcodes&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=createXcodes&theme=dark" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=createXcodes&theme=2077"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=createXcodes&theme=react-dark"/>
