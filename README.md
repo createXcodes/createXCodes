@@ -17,9 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=createXcodes&theme=dark&hideborder=false&includeallcommits=false&count_private=false&layout=compact&align="center")
 
 
-<h1 align="center">Hi 👋, I'm Raj Rikhari</h1>
-- 🌱 I’m currently learning **Javascript , React , **
-- 💬 Ask me about **Html , Css , Linux**
 
 
 <div> <a href="https://github.com/createXcodes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
