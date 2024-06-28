@@ -45,9 +45,7 @@
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github.com/createXcodes/createXCodes/blob/main/.github/workflows/snake.yml" alt="utkarsh pathrabe stats snake" />
 </p>
-              - name: Snake game generator from Github contributions
-                uses: Sutil/snk@v01.00.02
-            
+        
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=createXcodes&theme=react-dark"/>
