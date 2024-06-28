@@ -44,6 +44,9 @@
 </div>
 
 ![snake gif](https://github.com/createXcodes/createXCodes/blob/output/github-contribution-grid-snake.svg)
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github.com/createXcodes/createXCodes/blob/output/github-contribution-grid-snake.gif" alt="utkarsh pathrabe stats snake" />
+</p>
 
         
 
