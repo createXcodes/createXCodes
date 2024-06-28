@@ -43,7 +43,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=createXcodes&theme=dark" height="180em" />
 </div>
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/createXcodes/createXCodes/blob/main/.github/workflows%20/" alt="utkarsh pathrabe stats snake" />
+    <img src="https://github.com/createXcodes/createXCodes/blob/main/.github/workflows%20/dist/github-contribution-grid-snake.svg" alt="createXcodes" />
 </p>
         
 
