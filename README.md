@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6&style=flat" alt="rajrikhari" width="130"/> </p>
 
-
+<p align="center"> <img src="https://img.shields.io/badge/Links-blue" alt="rajrikhari" width="130"/> </p>
 
 ![Static Badge](https://img.shields.io/badge/Links-blue)
 
