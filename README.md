@@ -16,16 +16,8 @@
 ## :mango: Github Stats 🐱‍🚀
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=createXcodes&theme=dark&hideborder=false&includeallcommits=false&count_private=false&layout=compact&align="center")
 
-<h1 align="center">Hi 👋, I'm Raj Rikhari</h1>
-- 🌱 I’m currently learning **Javascript , React , **
-- 💬 Ask me about **Html , Css , Linux**
 
 
-<div> <a href="https://github.com/createXcodes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/createXcodes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/createXcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="createXcodes" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
