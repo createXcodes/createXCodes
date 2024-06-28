@@ -43,7 +43,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=createXcodes&theme=dark" height="180em" />
 </div>
 
-![snake head](https://github.com/createXcodes/createXcodes/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/createXcodes/createXcodes/blob/output/github-contribution-grid-snake.gif)
 
         
 
