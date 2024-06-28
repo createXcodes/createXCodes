@@ -13,10 +13,6 @@
 
 
 
-## :mango: Github Stats 🐱‍🚀
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=createXcodes&theme=dark&hideborder=false&includeallcommits=false&count_private=false&layout=compact&align="center")
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
