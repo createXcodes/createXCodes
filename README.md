@@ -43,12 +43,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=createXcodes&theme=dark" height="180em" />
 </div>
 
-![snake gif](https://github.com/createXcodes/createXCodes/blob/output/github-contribution-grid-snake.svg)
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/createXcodes/createXCodes/blob/output/github-contribution-grid-snake.gif" alt="utkarsh pathrabe stats snake" />
-</p>
-
-        
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=createXcodes&theme=react-dark"/>
