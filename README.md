@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <img src="https://img.shields.io/badge/Links-blue" alt="rajrikhari" width="67" height=""> </p>
+<p ailgn="left"> <img src="https://img.shields.io/badge/Links-blue" alt="rajrikhari" width="67" height=""> </p>
 
 
 
