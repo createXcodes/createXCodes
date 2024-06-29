@@ -7,7 +7,7 @@
 
 
 
-<p ailgn="left"> <img src="https://img.shields.io/badge/Links-blue" alt="rajrikhari" width="67" height=""> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Links-blue" alt="rajrikhari" width="67" height=""> </p>
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-<h3  algin="center">Languages and Tools</h3>
+<h3 algin="center"> Languages and Tools </h3>
 
 <p algin="center">
   <p align="center">
