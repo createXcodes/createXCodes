@@ -20,7 +20,7 @@
 
 
 
-<h3 algin="center"> Languages and Tools </h3>
+<h2 algin="center"> Languages and Tools </h2>
 
 
 <p algin="center">
