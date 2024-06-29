@@ -32,7 +32,7 @@
 </p>
 
 
-<h3 align="left">Stars</h3>
+<h3 align="left"></h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=createXcodes&layout=compact&theme=dark" alt=createXcodes />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=createXcodes&theme=dark" alt="createXcodes" /></p>
