@@ -21,7 +21,7 @@
 
 
 
-<p algin="right"> <h3> Languages and Tools ✔ </h3></p>
+<h2 algin="center">Language And Tools</h2>
 
 </br>
 
