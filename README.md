@@ -20,7 +20,7 @@
 
 
 
-<h3 align="left" width="40" height="40">Languages and Tools</h3>
+<h3 align="left" width="40" height="40" algin="center">Languages and Tools</h3>
 
 <p algin="center">
   <p align="center">
