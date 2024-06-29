@@ -9,6 +9,11 @@
 
 <p align="left"> <img src="https://img.shields.io/badge/Links-blue" alt="rajrikhari" width="67" height=""> </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter,instagram" />
+  </a>
+</p>
 
 
 - https://github.com/createXcodes
