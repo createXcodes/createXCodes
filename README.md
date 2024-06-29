@@ -25,11 +25,10 @@
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,git,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,git,nodejs,php,vscode" />
     <br>
-    <img src="https://skillicons.dev/icons?i=php,nodejs,vim,npm" />
-     <br>
-      <img src="https://skillicons.dev/icons?i=vscode,kali,bootstrap,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=php,kali,vim,npm,bootstrap,tailwindcss" />
+
    
   </a>
 </p>
