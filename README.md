@@ -21,12 +21,12 @@
 
 
 
-<p algin="center"> <h3> Languages and Tools ✔ </h3</p>
+<p algin="right"> <h3> Languages and Tools ✔ </h3</p>
 
 </br>
 
 
-<p algin="center">
+
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,linux,css,javascript,react" />
@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=php,nodejs,vscode,vim,npm,kali,bootstrap" />
   </a>
 </p>
-</p>
+
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=createXcodes&layout=compact&theme=dark" alt=createXcodes />
