@@ -27,7 +27,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,linux,css,javascript,react" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,php,nodejs,vscode,nano,vim" />
+    <img src="https://skillicons.dev/icons?i=php,nodejs,vscode,vim,npm,kali," />
   </a>
 </p>
 </p>
