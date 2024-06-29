@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajrikhari&label=Profile%20views&color=0e75b6&style=flat" alt="rajrikhari" width="130"/> </p>
 
-![snake gif](https://github.com/createXcodes/createXcodes/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="left"> <img src="https://img.shields.io/badge/Links-blue" alt="rajrikhari" width="67" height=""> </p>
 
@@ -20,7 +20,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" width="40" height="40">Languages and Tools</h3>
 
 <p algin="center">
   <p align="center">
