@@ -21,7 +21,7 @@
 
 
 
-<p algin="center"> 🐱‍🚀 Languages and Tools  ✔ </p>
+<p algin="center"> <h3> Languages and Tools ✔ </h3</p>
 
 </br>
 
