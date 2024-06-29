@@ -7,22 +7,13 @@
 
 
 
-<p align="left"> <img src="https://img.shields.io/badge/Links-blue" alt="rajrikhari" width="67" height=""> </p>
+<h3 align="center">✔ Social Media 🎁</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=twitter,instagram" />
   </a>
 </p>
-
-
-- https://github.com/createXcodes
-- https://www.instagram.com/create_x_codes/
-- https://github.com/createXcodes/Loginpage-including-DB-interface
-- https://github.com/Coders-Achievement
-
-
-
 
 
 
