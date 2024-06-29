@@ -21,7 +21,7 @@
 
 
 
-<h2 algin="center">Language And Tools</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 </br>
 
